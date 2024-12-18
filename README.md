@@ -1,15 +1,23 @@
 [中文文档](README_CN.md)
 
-# Video to Image Converter
+# VideoFramer
 
-A simple and efficient Python tool to extract frames from videos.
+A lightweight and efficient tool for extracting frames from video files. VideoFramer allows you to easily convert videos into sequential image frames with customizable settings.
 
-## Features
+## Key Features
+- Extract frames from various video formats (MP4, AVI, MOV, etc.)
+- Adjustable frame extraction rate
+- Batch processing support
+- Customizable output formats (JPG, PNG)
+- Simple command-line interface
+- Cross-platform compatibility (Windows, macOS, Linux)
 
-- Extract frames from videos at specified intervals
-- Support multiple video formats (mp4, avi, mov, mkv)
-- Batch processing for multiple videos
-- Organized output structure with separate folders for each video
+## Use Cases
+- Video analysis
+- Machine learning dataset preparation
+- Animation reference
+- Thumbnail generation
+- Motion study
 
 ## Requirements
 
@@ -48,6 +56,6 @@ You can modify these parameters in the script:
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
